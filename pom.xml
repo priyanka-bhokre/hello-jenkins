@@ -11,7 +11,7 @@
 	<groupId>com.practice.org</groupId>
 	<artifactId>hello-jenkins-docker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>hello-jenkins-docker</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
